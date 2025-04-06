@@ -7,7 +7,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://i.pinimg.com/736x/01/8d/88/018d88525aee612b19b14e49eaa18080.jpg");
+             background-image: url("https://media.wired.com/photos/620eb0f39266d5d11c07b3c5/master/w_2560%2Cc_limit/Gear-Podcast-Gear-1327244548.jpg");
              background-attachment: fixed;
              background-size: cover;
              background-repeat: no-repeat;
